@@ -1,6 +1,6 @@
 # Indian-States-Data
 
-EDA on US Presidents Dataset
+EDA on Indian-States Dataset
 
 “This EDA analysis is licensed under Apache 2.0 License.” “Users must provide proper attribution to Praveena Prakash before using this work.” "Praveena Prakash, EDA on Indian States Data, Github, 2025." Ref:https://github.com/praveenaprakash98/Indian-States-Data
 
